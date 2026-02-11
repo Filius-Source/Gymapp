@@ -9,7 +9,7 @@ public class Gymapp {
         };
 
         String[][] exercises = {
-                { "Leg Press", "Bench Press", "Pull-ups", "Plank" },
+                { "Squat", "Bench Press", "Pull-ups", "Plank" },
                 { "Deadlift", "Overhead Press", "Barbell Row", "Hanging Leg Raises" },
                 { "Rust / Actief herstel", "Wandelen 30 min", "Stretching 15 min" },
                 { "Front Squat", "Incline Dumbbell Press", "Lat Pulldown", "Side Plank" },
